@@ -1,0 +1,5 @@
+Id = 102
+Name = shyam
+Salary= 78965.00Id = 101
+Name = ram
+Salary= 76000.00
